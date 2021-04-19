@@ -72,7 +72,7 @@ function Cards() {
 
             <li>
               <a
-                href="https://github.com/KokhobYohannes/DayPlanner"
+                href="https://github.com/KokhobYohannes/HomeworkThree"
                 target="_blank"
                 rel="noopener noreferrer"
               >
