@@ -21,6 +21,7 @@ https://github.com/KokhobYohannes/ReactPortfolio
 ## Screenshots:
 
 ![Screen Shot 2021-04-18 at 9 49 43 PM](https://user-images.githubusercontent.com/72357196/115170994-ff5d3c80-a08f-11eb-8cb5-0a0940db5651.png)
+![Screen Shot 2021-04-20 at 7 29 40 AM](https://user-images.githubusercontent.com/72357196/115631795-8569c500-a2d4-11eb-9c1f-097062c3028d.png)
 
 ## Acknowledgements:
 
