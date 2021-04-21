@@ -1,0 +1,23 @@
+{
+  "name": "ReactPortfolio",
+  "version": "1.0.0",
+  "description": "## Description:",
+  "main": "index.js",
+  "homepage": "https://KokhobYohannes.github.io/ReactPortfolio",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "cd react-portfolio && npm run build",
+    "deploy": "cp -r react-portfolio/build . && gh-pages -d build",
+    "install": "cd react-portfolio && npm i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://kokhobyohannes.github.io/ReactPortfolio"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
