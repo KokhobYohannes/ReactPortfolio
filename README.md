@@ -4,9 +4,15 @@
 
 A fully responsive react app, created to display previous developer projects, contact information, my LinkedIn and Github as well as some information about me.
 
+## To view:
+
+1. Run npm i
+2. Run npm start
+3. Click Portfolio/About Me tab on deployed site to view app and content
+
 ## Deployed Link:
 
-https://kokhobyohannes.github.io/
+https://kokhobyohannes.github.io/ReactPortfolio/
 
 ## Repository Link:
 
